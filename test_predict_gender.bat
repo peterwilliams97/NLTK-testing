@@ -1,0 +1,2 @@
+python predict_gender.py gwend0l1n leonard er1c bob b0b cathrin leon judith priyanka hendrik ann matt matthew chris tom thomas tim timothy jason jase chr1s t1m t0m hendr1ck jas0n rick r1ck dick christopher 
+python predict_gender.py customer pepper salt jam table house peter iron steel copper sand silk honey war peace love hate life death disease hatred dying eating walk talk

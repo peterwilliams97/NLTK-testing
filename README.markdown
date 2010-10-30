@@ -3,4 +3,5 @@
 Needs Python and NLTK.
 
 ## Summary
-1. ** predict_gender ** Predicts gender from a name
+1. ** predict_gender.py ** Predicts gender from a name. Trained on people's names.
+2. ** test_predict_gender.bat ** Shows how to use predict_gender.py
